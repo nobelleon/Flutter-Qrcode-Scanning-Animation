@@ -1,8 +1,8 @@
 # Flutter-Qrcode-Scanning-Animation
 
-![Qrcode Scanning Animation App](https://github.com/user-attachments/assets/207d6e1b-c052-4e26-978a-6b703cf361f9)
+![Qrcode Scanning Animation App](https://github.com/user-attachments/assets/cbefb5bb-76cd-48ab-9ed0-624da27957dd)
 
-A new Flutter project.       
+A new Flutter project.        
 
 ## Getting Started
 
